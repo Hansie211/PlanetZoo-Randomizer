@@ -1,0 +1,1268 @@
+[
+  {
+    "id": 1,
+    "name": "Aardvark",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3,
+      6
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 2,
+    "name": "African Buffalo",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3,
+      6
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 3,
+    "name": "African Elephant",
+    "is_exhibit_animal": false,
+    "biomes": [
+      2,
+      3
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 4,
+    "name": "African Penguin",
+    "is_exhibit_animal": false,
+    "biomes": [
+      1,
+      2
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 5,
+    "name": "African Wild Dog",
+    "is_exhibit_animal": false,
+    "biomes": [
+      2,
+      3
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Aldabra Giant Tortoise",
+    "is_exhibit_animal": false,
+    "biomes": [
+      6
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Amazonian Giant Centipede",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 8,
+    "name": "American Alligator",
+    "is_exhibit_animal": false,
+    "biomes": [
+      1,
+      5
+    ],
+    "regions": [
+      4
+    ]
+  },
+  {
+    "id": 9,
+    "name": "American Bison",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3
+    ],
+    "regions": [
+      4
+    ]
+  },
+  {
+    "id": 10,
+    "name": "American Bullfrog",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 11,
+    "name": "Arctic Fox",
+    "is_exhibit_animal": false,
+    "biomes": [
+      4,
+      7
+    ],
+    "regions": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Arctic Wolf",
+    "is_exhibit_animal": false,
+    "biomes": [
+      4,
+      7
+    ],
+    "regions": [
+      4
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Bactrian Camel",
+    "is_exhibit_animal": false,
+    "biomes": [
+      2,
+      5
+    ],
+    "regions": [
+      2
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Baird's Tapir",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3,
+      5,
+      6
+    ],
+    "regions": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Bengal Tiger",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3,
+      5,
+      6
+    ],
+    "regions": [
+      2
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Binturong",
+    "is_exhibit_animal": false,
+    "biomes": [
+      5,
+      6
+    ],
+    "regions": [
+      2
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Black Wildebeest",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Black-Tailed Prairie Dog",
+    "is_exhibit_animal": false,
+    "biomes": [
+      2,
+      3
+    ],
+    "regions": [
+      4
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Boa Constrictor",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 20,
+    "name": "Bongo",
+    "is_exhibit_animal": false,
+    "biomes": [
+      6
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Bonobo",
+    "is_exhibit_animal": false,
+    "biomes": [
+      6
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Bornean Orangutan",
+    "is_exhibit_animal": false,
+    "biomes": [
+      6
+    ],
+    "regions": [
+      2
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Brazilian Salmon Pink Tarantula",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 24,
+    "name": "Brazilian Wandering Spider",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 25,
+    "name": "California Sea Lion",
+    "is_exhibit_animal": false,
+    "biomes": [
+      1,
+      5
+    ],
+    "regions": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Cheetah",
+    "is_exhibit_animal": false,
+    "biomes": [
+      2,
+      3
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Chinese Pangolin",
+    "is_exhibit_animal": false,
+    "biomes": [
+      5,
+      6
+    ],
+    "regions": [
+      2
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Clouded Leopard",
+    "is_exhibit_animal": false,
+    "biomes": [
+      5,
+      6
+    ],
+    "regions": [
+      2
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Colombian White-Faced Capuchin",
+    "is_exhibit_animal": false,
+    "biomes": [
+      5,
+      6
+    ],
+    "regions": [
+      5
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Common Death Adder",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 31,
+    "name": "Common Ostrich",
+    "is_exhibit_animal": false,
+    "biomes": [
+      2,
+      3
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Common Warthog",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3,
+      6
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Cougar",
+    "is_exhibit_animal": false,
+    "biomes": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "regions": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Cuvier's Dwarf Caiman",
+    "is_exhibit_animal": false,
+    "biomes": [
+      1,
+      3,
+      5,
+      6
+    ],
+    "regions": [
+      5
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Dall Sheep",
+    "is_exhibit_animal": false,
+    "biomes": [
+      4,
+      7
+    ],
+    "regions": [
+      4
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Dhole",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "regions": [
+      2
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Diamondback Terrapin",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 38,
+    "name": "Dingo",
+    "is_exhibit_animal": false,
+    "biomes": [
+      2,
+      3
+    ],
+    "regions": [
+      7
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Eastern Blue Tongued Lizard",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 40,
+    "name": "Eastern Brown Snake",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 41,
+    "name": "Fennec Fox",
+    "is_exhibit_animal": false,
+    "biomes": [
+      2
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Formosan Black Bear",
+    "is_exhibit_animal": false,
+    "biomes": [
+      4,
+      5,
+      6
+    ],
+    "regions": [
+      2
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Galapagos Giant Tortoise",
+    "is_exhibit_animal": false,
+    "biomes": [
+      6
+    ],
+    "regions": [
+      5
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Gemsbok",
+    "is_exhibit_animal": false,
+    "biomes": [
+      2
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Gharial",
+    "is_exhibit_animal": false,
+    "biomes": [
+      1,
+      5,
+      6
+    ],
+    "regions": [
+      2
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Giant Anteater",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3,
+      6
+    ],
+    "regions": [
+      5
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Giant Burrowing Cockroach",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 48,
+    "name": "Giant Desert Hairy Scorpion",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 49,
+    "name": "Giant Forest Scorpion",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 50,
+    "name": "Giant Leaf Insect",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 51,
+    "name": "Giant Otter",
+    "is_exhibit_animal": false,
+    "biomes": [
+      1,
+      3,
+      6
+    ],
+    "regions": [
+      5
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Giant Panda",
+    "is_exhibit_animal": false,
+    "biomes": [
+      4,
+      5
+    ],
+    "regions": [
+      2
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Giant Tiger Land Snail",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 54,
+    "name": "Gila Monster",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 55,
+    "name": "Golden Poison Frog",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 56,
+    "name": "Goliath Beetle",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 57,
+    "name": "Goliath Birdeater",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 58,
+    "name": "Goliath Frog",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 59,
+    "name": "Greater Flamingo",
+    "is_exhibit_animal": false,
+    "biomes": [
+      1,
+      3,
+      5,
+      6
+    ],
+    "regions": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Green Iguana",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 61,
+    "name": "Grey Seal",
+    "is_exhibit_animal": false,
+    "biomes": [
+      1,
+      5,
+      7
+    ],
+    "regions": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Grizzly Bear",
+    "is_exhibit_animal": false,
+    "biomes": [
+      4,
+      5,
+      7
+    ],
+    "regions": [
+      4
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Himalayan Brown Bear",
+    "is_exhibit_animal": false,
+    "biomes": [
+      4,
+      7
+    ],
+    "regions": [
+      2
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Hippopotamus",
+    "is_exhibit_animal": false,
+    "biomes": [
+      1,
+      3
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Indian Elephant",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3,
+      5,
+      6
+    ],
+    "regions": [
+      2
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Indian Peafowl",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3,
+      5,
+      6
+    ],
+    "regions": [
+      2
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Indian Rhinoceros",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3,
+      5
+    ],
+    "regions": [
+      2
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Jacuzzi bois",
+    "is_exhibit_animal": false,
+    "biomes": [
+      4,
+      5
+    ],
+    "regions": [
+      2
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Jaguar",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3,
+      5,
+      6
+    ],
+    "regions": [
+      5
+    ]
+  },
+  {
+    "id": 70,
+    "name": "King Penguin",
+    "is_exhibit_animal": false,
+    "biomes": [
+      1,
+      7
+    ],
+    "regions": [
+      5,
+      8
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Koala",
+    "is_exhibit_animal": false,
+    "biomes": [
+      5,
+      6
+    ],
+    "regions": [
+      7
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Komodo Dragon",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3,
+      6
+    ],
+    "regions": [
+      2
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Lehmann's Poison Frog",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 74,
+    "name": "Lesser Antillean Iguana",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 75,
+    "name": "Llama",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3,
+      4,
+      5
+    ],
+    "regions": [
+      5
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Malayan Tapir",
+    "is_exhibit_animal": false,
+    "biomes": [
+      1,
+      5,
+      6
+    ],
+    "regions": [
+      2
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Mandrill",
+    "is_exhibit_animal": false,
+    "biomes": [
+      6
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Meerkat",
+    "is_exhibit_animal": false,
+    "biomes": [
+      2,
+      3
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Mexican Red Knee Tarantula",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 80,
+    "name": "Moose",
+    "is_exhibit_animal": false,
+    "biomes": [
+      4
+    ],
+    "regions": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Nile Monitor",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3,
+      6
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 82,
+    "name": "North American Beaver",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3,
+      4,
+      5
+    ],
+    "regions": [
+      4
+    ]
+  },
+  {
+    "id": 83,
+    "name": "North Sulawesi Babirusa",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3,
+      6
+    ],
+    "regions": [
+      2
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Nyala",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3,
+      6
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Okapi",
+    "is_exhibit_animal": false,
+    "biomes": [
+      6
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Plains Zebra",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Polar Bear",
+    "is_exhibit_animal": false,
+    "biomes": [
+      1,
+      4,
+      7
+    ],
+    "regions": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Proboscis Monkey",
+    "is_exhibit_animal": false,
+    "biomes": [
+      1,
+      6
+    ],
+    "regions": [
+      2
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Pronghorn Antelope",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3,
+      4,
+      5
+    ],
+    "regions": [
+      4
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Puff Adder",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 91,
+    "name": "Pygmy Hippo",
+    "is_exhibit_animal": false,
+    "biomes": [
+      1,
+      6
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Red Kangaroo",
+    "is_exhibit_animal": false,
+    "biomes": [
+      2,
+      3
+    ],
+    "regions": [
+      7
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Red Panda",
+    "is_exhibit_animal": false,
+    "biomes": [
+      4,
+      5
+    ],
+    "regions": [
+      2
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Red Ruffed Lemur",
+    "is_exhibit_animal": false,
+    "biomes": [
+      6
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Red-Eyed Tree Frog",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 96,
+    "name": "Reindeer",
+    "is_exhibit_animal": false,
+    "biomes": [
+      4,
+      7
+    ],
+    "regions": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Reticulated Giraffe",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3,
+      6
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Ring Tailed Lemur",
+    "is_exhibit_animal": false,
+    "biomes": [
+      6
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Sable Antelope",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Sacred Scarab Beetle",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 101,
+    "name": "Saltwater Crocodile",
+    "is_exhibit_animal": false,
+    "biomes": [
+      1,
+      6
+    ],
+    "regions": [
+      2,
+      7
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Siberian Tiger",
+    "is_exhibit_animal": false,
+    "biomes": [
+      4,
+      5
+    ],
+    "regions": [
+      2
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Snow Leopard",
+    "is_exhibit_animal": false,
+    "biomes": [
+      4
+    ],
+    "regions": [
+      2
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Southern Cassowary",
+    "is_exhibit_animal": false,
+    "biomes": [
+      6
+    ],
+    "regions": [
+      7
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Southern White Rhinoceros",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Spotted Hyena",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Springbok",
+    "is_exhibit_animal": false,
+    "biomes": [
+      2,
+      3
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Sun Bear",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3,
+      5,
+      6
+    ],
+    "regions": [
+      2
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Thomson's Gazelle",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Timber Wolf",
+    "is_exhibit_animal": false,
+    "biomes": [
+      4,
+      5,
+      7
+    ],
+    "regions": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Titan Beetle",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 112,
+    "name": "West African Lion",
+    "is_exhibit_animal": false,
+    "biomes": [
+      3
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Western Chimpanzee",
+    "is_exhibit_animal": false,
+    "biomes": [
+      6
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Western Diamondback Rattlesnake",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  },
+  {
+    "id": 115,
+    "name": "Western Lowland Gorilla",
+    "is_exhibit_animal": false,
+    "biomes": [
+      6
+    ],
+    "regions": [
+      1
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Yellow Anaconda",
+    "is_exhibit_animal": true,
+    "biomes": "",
+    "regions": ""
+  }
+]

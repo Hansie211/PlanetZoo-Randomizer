@@ -1,0 +1,13 @@
+{
+  "short_name": "Planet Zoo Randomizer",
+  "name": "Planet Zoo Random Animal Generator",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone"
+}

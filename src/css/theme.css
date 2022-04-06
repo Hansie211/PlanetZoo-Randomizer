@@ -1,0 +1,116 @@
+:root {
+	--color-primary: #00b894;
+	--color-secondary: #636e72;
+	--color-tertiary: #b2bec3;
+	--color-spotlight: #ffeaa7;
+	--color-spotlight-font: #000;
+
+	--color-primary-font: #000;
+	--color-tertiary-font: #fff;
+
+	--color-secondary-highlight: rgb(180, 180, 180);
+	--color-secondary-font: rgb(211, 211, 211);
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Jost:wght@300;900&display=swap");
+
+body {
+	font-family: Jost !important;
+	font-weight: 900;
+	background-image: url("../images/screenshot_1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+
+	color: var(--color-primary-font);
+}
+
+#header,
+#footer {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	text-align: center;
+	flex-direction: column;
+}
+
+#header {
+	background-color: var(--color-primary);
+	min-height: 100px;
+
+	font-size: 40px;
+	font-weight: bold;
+}
+
+#footer {
+	background-color: var(--color-primary);
+	height: 50px;
+}
+
+#footer > * {
+	display: none;
+}
+
+#container {
+	flex-grow: 1;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#content {
+	background-color: var(--color-tertiary);
+	color: var(--color-tertiary-font);
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+
+	border-radius: 10px;
+}
+
+#content > div:first-of-type {
+	height: 100px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#animal-name {
+	height: 100px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	width: 250px;
+	background-color: wheat;
+
+	margin-bottom: 10px;
+}
+
+#button-container {
+	flex-grow: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.button-row {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+	flex-wrap: wrap;
+}
+
+/** https: ; //planetzoogenerator.netlify.app/zoo-overview.jpg;; ; ; */

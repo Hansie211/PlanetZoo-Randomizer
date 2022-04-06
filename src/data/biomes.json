@@ -1,0 +1,10 @@
+[
+    { "name": "Aquatic", "id": 1 },
+    { "name": "Desert", "id": 2 },
+    { "name": "Grassland", "id": 3 },
+    { "name": "Taiga", "id": 4 },
+    { "name": "Temperate", "id": 5 },
+    { "name": "Tropical", "id": 6 },
+    { "name": "Tundra", "id": 7 }
+
+]

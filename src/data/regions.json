@@ -1,0 +1,10 @@
+[
+    { "name": "African", "id": 1 },
+    { "name": "Asian", "id": 2 },
+    { "name": "European", "id": 3 },
+    { "name": "North American", "id": 4 },
+    { "name": "South American", "id": 5 },
+    { "name": "Central American", "id": 6 },
+    { "name": "Oceania", "id": 7 },
+    { "name": "Antarctica", "id": 8 }
+]
