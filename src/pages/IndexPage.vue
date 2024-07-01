@@ -1,6 +1,6 @@
 <template>
   <q-page class="row items-center justify-evenly">
-    <div style="background-color: #555; padding: 10px; border-radius: 5px">
+    <div id="box" style="max-width: 100%; min-width: 572px; background-color: #555; padding: 10px; border-radius: 5px">
       <animal-selector />
     </div>
 

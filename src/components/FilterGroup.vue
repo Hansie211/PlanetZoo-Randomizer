@@ -89,6 +89,12 @@ export default defineComponent({
 </script>
 
 <style scoped>
+@media (max-width: 1050px) {
+  .grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}
+
 .grid-wrapper {
   width: 100%;
   display: flex;
