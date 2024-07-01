@@ -1,6 +1,6 @@
 <template>
   <div style="border-radius: 5px; border: 1px solid white; display: flex; flex-direction: row; overflow: hidden; position: relative; align-items: center; width: 100%; height: 250px">
-    <img :src="animal?.image_url ?? undefined" style="height: 100%; width: 350px; object-fit: contain; background-color: black" />
+    <img id="thumbnail" :src="animal?.image_url ?? undefined" style="height: 100%; width: 350px; object-fit: contain; background-color: black" />
     <div style="padding: 15px; width: 100%; height: 100%; position: relative; display: flex; flex-direction: column; align-items: center; justify-content: center">
       <h3 style="margin: 0; color: #ccc">{{ animal?.title ?? 'No animal selected' }}</h3>
       <h6 style="margin: 0; padding: 0; font-size: 0.8em; color: rgba(255, 255, 255, 0.3)">{{ animal?.edition ?? '' }}</h6>
@@ -36,3 +36,11 @@ export default defineComponent({
   emits: ['clickRandomize', 'clickNext', 'clickPrevious'],
 });
 </script>
+
+<style scoped>
+@media (max-width: 572px) {
+  #thumbnail {
+    display: none;
+  }
+}
+</style>

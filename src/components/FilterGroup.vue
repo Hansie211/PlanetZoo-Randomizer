@@ -89,7 +89,13 @@ export default defineComponent({
 </script>
 
 <style scoped>
-@media (max-width: 1050px) {
+@media (max-width: 1000px) {
+  .grid {
+    grid-template-columns: repeat(3, 1fr) !important;
+  }
+}
+
+@media (max-width: 800px) {
   .grid {
     grid-template-columns: repeat(2, 1fr) !important;
   }
