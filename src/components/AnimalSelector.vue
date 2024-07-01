@@ -63,6 +63,6 @@ export default defineComponent({
 
 <style scoped>
 #box {
-  max-width: 1000px;
+  width: 100%;
 }
 </style>

@@ -1,6 +1,6 @@
 <template>
   <q-page class="row items-center justify-evenly">
-    <div id="box" style="max-width: 100%; background-color: #555; padding: 10px; border-radius: 5px">
+    <div id="box" style="max-width: 1000px; background-color: rgb(64, 69, 72); padding: 10px; border-radius: 5px">
       <animal-selector />
     </div>
 
@@ -19,3 +19,11 @@ export default defineComponent({
   },
 });
 </script>
+
+<style scoped>
+@media (min-width: 1050px) {
+  #box {
+    width: 1000px;
+  }
+}
+</style>

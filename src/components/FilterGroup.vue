@@ -3,8 +3,8 @@
     <h6 class="grid-title">{{ title }}</h6>
     <div class="grid">
       <template v-for="(value, index) in options" :key="value">
-        <q-btn :style="{ 'background-color': selectedValues.includes(value) ? 'white' : '#FFFFFF50' }" align="left" text-color="black" @click="() => selectValue(value)"
-          ><q-checkbox v-model="selectedValues" :val="value" :label="option_labels[index]" />
+        <q-btn :style="{ 'background-color': selectedValues.includes(value) ? 'rgb(24, 26, 27)' : 'rgba(24, 26, 27, 0.31)' }" align="left" text-color="white" @click="() => selectValue(value)"
+          ><q-checkbox dark v-model="selectedValues" :val="value" :label="option_labels[index]" />
         </q-btn>
       </template>
     </div>
