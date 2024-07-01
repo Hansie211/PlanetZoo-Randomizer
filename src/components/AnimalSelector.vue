@@ -1,5 +1,5 @@
 <template>
-  <div id="box">
+  <div style="width: 100%">
     <animal-card :animal="currentAnimal" :index="currentAnimalIndex + 1" :max="animals.length" @click-randomize="randomAnimal" @click-next="nextAnimal" @click-previous="previousAnimal" />
     <animal-filter @on-filter-updated="updateFilter" />
   </div>
@@ -60,9 +60,3 @@ export default defineComponent({
   },
 });
 </script>
-
-<style scoped>
-#box {
-  width: 100%;
-}
-</style>
