@@ -38,6 +38,11 @@ export default defineComponent({
 
   methods: {
     randomAnimal() {
+      if (this.animals.length <= 1) {
+        this.currentAnimalIndex = 0;
+        return;
+      }
+
       const nindex = Math.max(0, Math.floor(Math.random() * this.animals.length) - 1);
       this.currentAnimalIndex = nindex >= this.currentAnimalIndex ? nindex + 1 : nindex;
     },
