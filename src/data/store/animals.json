@@ -5574,5 +5574,688 @@
         "order": "Artiodactyla",
         "family": "Camelidae",
         "genus": "Camelus"
+    },
+    {
+        "id": "5a6dbb0e3b89d2ff4928912d3297b47d5991ff0c8d90bf911697489ab0d48cc5",
+        "title": "African Leopard",
+        "wiki_link": "https://planetzoo.fandom.com/wiki/African_Leopard",
+        "image_url": "https://static.wikia.nocookie.net/planetzoo/images/f/fa/Africanleopardzoopedia.jpg/revision/latest/scale-to-width-down/267",
+        "caption": "Panthera pardus pardus",
+        "interactivity": "Full",
+        "edition": "Basegame",
+        "continents": [
+            "Africa"
+        ],
+        "regions": "Fragmented populations throughout most countries in Sub-Saharan Africa",
+        "iucn_status": "Vulnerable",
+        "biomes": [
+            "Grassland",
+            "Tropical"
+        ],
+        "group_size": "1\u20122 (up to 1 male, up to 1 female)",
+        "reproduction": "Easy (Promiscuous)",
+        "maturity": "2.5 Years",
+        "sterility": "15 Years",
+        "gestation_incubation": "3 Months",
+        "interbirth": "32 Months",
+        "animal_class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae",
+        "genus": "Panthera"
+    },
+    {
+        "id": "7053615f3a60ca7c4683e0d76a64139eacd00e2c067304f23f55b110bbf9bc6c",
+        "title": "African Spurred Tortoise",
+        "wiki_link": "https://planetzoo.fandom.com/wiki/African_Spurred_Tortoise",
+        "image_url": "https://static.wikia.nocookie.net/planetzoo/images/7/76/Spurredtortzoopedia.jpg/revision/latest/scale-to-width-down/267",
+        "caption": "Centrochelys sulcata",
+        "interactivity": "Full",
+        "edition": "Zookeepers DLC",
+        "continents": [
+            "Africa"
+        ],
+        "regions": "Mauritania, Senegal, Mali, Burkina Faso, Niger, Nigeria, Cameroon, Chad, Central African Republic, Sudan, Eritrea, Ethiopia, Djibouti, Yemen",
+        "iucn_status": "Endangered",
+        "biomes": [
+            "Desert",
+            "Grassland"
+        ],
+        "group_size": "1\u20128 (up to 3 males, up to 7 females)",
+        "reproduction": "Very Easy (Promiscuous)",
+        "maturity": "10 years",
+        "sterility": "Death",
+        "gestation_incubation": "4 months",
+        "interbirth": "8 months",
+        "animal_class": "Reptilia",
+        "order": "Testudines",
+        "family": "Testudinidae",
+        "genus": "Centrochelys"
+    },
+    {
+        "id": "463a74c9f5642aed6ce4e26d69ac8ddfabe6d1cce0875f264a6fee5c6ef8592c",
+        "title": "American Flamingo",
+        "wiki_link": "https://planetzoo.fandom.com/wiki/American_Flamingo",
+        "image_url": "https://static.wikia.nocookie.net/planetzoo/images/9/9f/AmericanFlamingoZoopedia.webp/revision/latest/scale-to-width-down/267",
+        "caption": "Phoenicopterus ruber",
+        "interactivity": "Full",
+        "edition": "Americas DLC",
+        "continents": [
+            "North America"
+        ],
+        "regions": "USA, Cuba, Mexico, Venezuela, Bahamas, Ecuador, Dominican Republic, Colombia, various Caribbean overseas territories",
+        "iucn_status": "Least concern",
+        "biomes": [
+            "Aquatic",
+            "Grassland",
+            "Temperate",
+            "Tropical"
+        ],
+        "group_size": "20\u2012500 (Up to 500 males, up to 500 females)",
+        "reproduction": "Easy (Monogamous)",
+        "maturity": "4 years",
+        "sterility": "Death",
+        "gestation_incubation": "1 month",
+        "interbirth": "11 months",
+        "animal_class": "Aves",
+        "order": "Phoenicopteriformes",
+        "family": "Phoenicopteridae",
+        "genus": "Phoenicopterus"
+    },
+    {
+        "id": "96e7b5644b828dc9aa0254a68bd6da32d551a9b5d20f7f64a4a6993510bea98f",
+        "title": "Bighorn Sheep",
+        "wiki_link": "https://planetzoo.fandom.com/wiki/Bighorn_Sheep",
+        "image_url": "https://static.wikia.nocookie.net/planetzoo/images/a/a5/BighornSheepZoopedia.webp/revision/latest/scale-to-width-down/267",
+        "caption": "Ovis canadensis",
+        "interactivity": "Full",
+        "edition": "Americas DLC",
+        "continents": [
+            "North America"
+        ],
+        "regions": "Canada, USA, Mexico",
+        "iucn_status": "Least concern",
+        "biomes": [
+            "Desert",
+            "Grassland",
+            "Taiga"
+        ],
+        "group_size": "3\u201210 (up to 1 male, up to 9 females)",
+        "reproduction": "Very Easy (Polygynous)",
+        "maturity": "2 years",
+        "sterility": "Death",
+        "gestation_incubation": "6 months",
+        "interbirth": "6 months",
+        "animal_class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Bovidae",
+        "genus": "Ovis"
+    },
+    {
+        "id": "b4656b6d83721c6eec47b72d1a3467d208c8e6b50e603f9b392021837a770bbc",
+        "title": "Blackbuck",
+        "wiki_link": "https://planetzoo.fandom.com/wiki/Blackbuck",
+        "image_url": "https://static.wikia.nocookie.net/planetzoo/images/b/bc/Blackbuckzoopedia.webp/revision/latest/scale-to-width-down/268",
+        "caption": "Antilope cervicapra",
+        "interactivity": "Full",
+        "edition": "Asia DLC",
+        "continents": [
+            "Asia"
+        ],
+        "regions": "India, Nepal, Pakistan, Bangladesh",
+        "iucn_status": "Least concern",
+        "biomes": [
+            "Grassland",
+            "Tropical"
+        ],
+        "group_size": "3\u201210 (up to 1 male, up to 9 females)",
+        "reproduction": "Easy (Polygynous)",
+        "maturity": "1.5 years",
+        "sterility": "Death",
+        "gestation_incubation": "6 months",
+        "interbirth": "6 months",
+        "animal_class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Bovidae",
+        "genus": "Antilope"
+    },
+    {
+        "id": "ee0f8fbf1e6945ca9ac74e2c6b195126045d625f51100c5b86374c2c3629415e",
+        "title": "Bornean Elephant",
+        "wiki_link": "https://planetzoo.fandom.com/wiki/Bornean_Elephant",
+        "image_url": "https://static.wikia.nocookie.net/planetzoo/images/5/51/BorneanElephantzoopedia.webp/revision/latest/scale-to-width-down/268",
+        "caption": "Elephas maximus borneensis",
+        "interactivity": "Full",
+        "edition": "Asia DLC",
+        "continents": [
+            "Asia"
+        ],
+        "regions": "Borneo (Indonesia, Malaysia)",
+        "iucn_status": "Endangered",
+        "biomes": [
+            "Aquatic",
+            "Grassland",
+            "Tropical"
+        ],
+        "group_size": "3\u201230 (up to 1 male, up to 29 females)",
+        "reproduction": "Difficult (Polygynous)",
+        "maturity": "10 years",
+        "sterility": "65 years",
+        "gestation_incubation": "22 months",
+        "interbirth": "60 months",
+        "animal_class": "Mammalia",
+        "order": "Proboscidea",
+        "family": "Elephantidae",
+        "genus": "Elephas"
+    },
+    {
+        "id": "56249891e02e6477ef95ec90a927d44dfb17646d92dea82848855e67db64daff",
+        "title": "Brown-Throated Sloth",
+        "wiki_link": "https://planetzoo.fandom.com/wiki/Brown-Throated_Sloth",
+        "image_url": "https://static.wikia.nocookie.net/planetzoo/images/7/7c/BrownThroatedSloth_zoopedia.jpg/revision/latest/scale-to-width-down/267",
+        "caption": "Bradypus variegatus",
+        "interactivity": "Exhibit",
+        "edition": "Tropical DLC",
+        "continents": [
+            "South America",
+            "Central America"
+        ],
+        "regions": "Honduras, Nicaragua, Costa Rica, Panama, Colombia, Venezuela, Ecuador, Peru, Bolivia, Brazil",
+        "iucn_status": "Least concern",
+        "biomes": [
+            "Tropical"
+        ],
+        "group_size": "1\u20126",
+        "reproduction": "Average (Polygynous)",
+        "maturity": "4 years",
+        "sterility": "Death",
+        "gestation_incubation": "8 months",
+        "interbirth": "12 months",
+        "animal_class": "Mammalia",
+        "order": "Pilosa",
+        "family": "Bradypodidae",
+        "genus": "Bradypus"
+    },
+    {
+        "id": "632a409d7841649ae8fa5eb5f929dc69a0e1ed25ead085c243e51959c0721eb5",
+        "title": "Bush Dog",
+        "wiki_link": "https://planetzoo.fandom.com/wiki/Bush_Dog",
+        "image_url": "https://static.wikia.nocookie.net/planetzoo/images/d/db/BushDogZoopedia.webp/revision/latest/scale-to-width-down/267",
+        "caption": "Speothos venaticus",
+        "interactivity": "Full",
+        "edition": "Americas DLC",
+        "continents": [
+            "South America"
+        ],
+        "regions": "Ecuador, Colombia, Venezuela, Costa Rica, Guyana, Suriname, French Guiana, Brazil, Peru, Bolivia, Paraguay",
+        "iucn_status": "Near threatened",
+        "biomes": [
+            "Aquatic",
+            "Grassland",
+            "Tropical"
+        ],
+        "group_size": "2\u201212 (up to 11 males, up to 11 females)",
+        "reproduction": "Easy (Monogamous)",
+        "maturity": "2 years",
+        "sterility": "10 years",
+        "gestation_incubation": "2 months",
+        "interbirth": "4 months",
+        "animal_class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Speothos"
+    },
+    {
+        "id": "b038e5d3036f4510c6937eddf641cae89d04df45bd0ebbc4607db01242f26e15",
+        "title": "Coquerel's Sifaka",
+        "wiki_link": "https://planetzoo.fandom.com/wiki/Coquerel%27s_Sifaka",
+        "image_url": "https://static.wikia.nocookie.net/planetzoo/images/7/74/Sifakazoopedia.jpg/revision/latest/scale-to-width-down/267",
+        "caption": "Propithecus coquereli",
+        "interactivity": "Full",
+        "edition": "Zookeepers DLC",
+        "continents": [
+            "Africa"
+        ],
+        "regions": "Madagascar",
+        "iucn_status": "Critically endangered",
+        "biomes": [
+            "Tropical"
+        ],
+        "group_size": "2\u20126 (up to 5 males, up to 5 females)",
+        "reproduction": "Difficult (Polyandrous)",
+        "maturity": "3 years",
+        "sterility": "15 years",
+        "gestation_incubation": "5 months",
+        "interbirth": "6 months",
+        "animal_class": "Mammalia",
+        "order": "Primates",
+        "family": "Indriidae",
+        "genus": "Propithecus"
+    },
+    {
+        "id": "443d0b41c7e5081e68ed30606a597e61dd7e02d2de8993ca9076e3cace6ea61d",
+        "title": "Coyote",
+        "wiki_link": "https://planetzoo.fandom.com/wiki/Coyote",
+        "image_url": "https://static.wikia.nocookie.net/planetzoo/images/b/b2/CoyteZoopedia.webp/revision/latest/scale-to-width-down/267",
+        "caption": "Canis latrans",
+        "interactivity": "Full",
+        "edition": "Americas DLC",
+        "continents": [
+            "North America",
+            "Central America"
+        ],
+        "regions": "Canada, USA, Mexico, Belize, El Salvador, Guatemala, Honduras, Nicaragua, Costa Rica, Panama",
+        "iucn_status": "Least concern",
+        "biomes": [
+            "Desert",
+            "Grassland",
+            "Taiga",
+            "Temperate",
+            "Tropical"
+        ],
+        "group_size": "2\u201212 (up to 11 males, up to 11 females)",
+        "reproduction": "Easy (Monogamous)",
+        "maturity": "1 year",
+        "sterility": "Death",
+        "gestation_incubation": "2 months",
+        "interbirth": "10 months",
+        "animal_class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis"
+    },
+    {
+        "id": "d049b6d9c0320bdbcb7104584647de01e59cc72fbf477ab896aec399cb5a8026",
+        "title": "Greater Rhea",
+        "wiki_link": "https://planetzoo.fandom.com/wiki/Greater_Rhea",
+        "image_url": "https://static.wikia.nocookie.net/planetzoo/images/a/a1/GreaterRheaZoopedia.webp/revision/latest/scale-to-width-down/267",
+        "caption": "Rhea americana",
+        "interactivity": "Full",
+        "edition": "Americas DLC",
+        "continents": [
+            "South America"
+        ],
+        "regions": "Argentina, Bolivia, Brazil, Paraguay, Uruguay",
+        "iucn_status": "Near threatened",
+        "biomes": [
+            "Grassland",
+            "Temperate"
+        ],
+        "group_size": "3\u201213 (up to one male, up to 12 females)",
+        "reproduction": "Very Easy (Promiscuous)",
+        "maturity": "2 years",
+        "sterility": "Death",
+        "gestation_incubation": "1 month",
+        "interbirth": "11 months",
+        "animal_class": "Aves",
+        "order": "Rheiformes",
+        "family": "Rheidae",
+        "genus": "Rhea"
+    },
+    {
+        "id": "0ddc75470dd9654a2e57c487c73fa31c6549f69792f3db50cd506cca07404ac9",
+        "title": "Hamadryas Baboon",
+        "wiki_link": "https://planetzoo.fandom.com/wiki/Hamadryas_Baboon",
+        "image_url": "https://static.wikia.nocookie.net/planetzoo/images/6/68/Hbaboonzoopedia.jpg/revision/latest/scale-to-width-down/267",
+        "caption": "Papio hamadryas",
+        "interactivity": "Full",
+        "edition": "Zookeepers DLC",
+        "continents": [
+            "Africa"
+        ],
+        "regions": "Ethiopia, Djibouti, Somalia, Yemen",
+        "iucn_status": "Least concern",
+        "biomes": [
+            "Desert",
+            "Grassland"
+        ],
+        "group_size": "6\u2012100 (up to 30 males, up to 99 females)",
+        "reproduction": "Very Easy (Polygynous)",
+        "maturity": "6 years",
+        "sterility": "21 years",
+        "gestation_incubation": "6 months",
+        "interbirth": "18 months",
+        "animal_class": "Mammalia",
+        "order": "Primates",
+        "family": "Cercopithecidae",
+        "genus": "Papio"
+    },
+    {
+        "id": "57b60f17ad2b7ca3e2e9ab0c19a32843de839d71dc51e410d61e25599b4af9ac",
+        "title": "Honey Badger",
+        "wiki_link": "https://planetzoo.fandom.com/wiki/Honey_Badger",
+        "image_url": "https://static.wikia.nocookie.net/planetzoo/images/e/e3/HoneyBadgerzoopedia.webp/revision/latest/scale-to-width-down/268",
+        "caption": "Mellivora capensis",
+        "interactivity": "Full",
+        "edition": "Asia DLC",
+        "continents": [
+            "Africa",
+            "Asia"
+        ],
+        "regions": "Throughout Sub-Saharan Africa, the Middle East, as well as Algeria, Morocco, India, and Turkmenistan",
+        "iucn_status": "Least concern",
+        "biomes": [
+            "Desert",
+            "Grassland",
+            "Tropical"
+        ],
+        "group_size": "1\u20122 (up to 1 male, up to 1 female)",
+        "reproduction": "Average (Promiscuous)",
+        "maturity": "3 years",
+        "sterility": "Death",
+        "gestation_incubation": "2 months",
+        "interbirth": "22 months",
+        "animal_class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Mustelidae",
+        "genus": "Mellivora"
+    },
+    {
+        "id": "20887b3990780e84d9c406ff433d61927f56e982b6e7bbb7dedcf3f52d287459",
+        "title": "Japanese Raccoon Dog",
+        "wiki_link": "https://planetzoo.fandom.com/wiki/Japanese_Raccoon_Dog",
+        "image_url": "https://static.wikia.nocookie.net/planetzoo/images/a/a9/Raccoondogzoopedia.webp/revision/latest/scale-to-width-down/267",
+        "caption": "Nyctereutes viverrinus",
+        "interactivity": "Full",
+        "edition": "Asia DLC",
+        "continents": [
+            "Asia"
+        ],
+        "regions": "Japan",
+        "iucn_status": "Least concern",
+        "biomes": [
+            "Temperate"
+        ],
+        "group_size": "2\u20128 (up to 7 males, up to 7 females)",
+        "reproduction": "Easy (Monogamous)",
+        "maturity": "10 months",
+        "sterility": "Death",
+        "gestation_incubation": "1 month",
+        "interbirth": "10 month",
+        "animal_class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Nyctereutes"
+    },
+    {
+        "id": "79577c68d74b3dbbd0589f26f7875e28282f0dea965ea0c91caa0943d586ef8c",
+        "title": "Kirk's Dik-Dik",
+        "wiki_link": "https://planetzoo.fandom.com/wiki/Kirk%27s_Dik-Dik",
+        "image_url": "https://static.wikia.nocookie.net/planetzoo/images/f/f8/Dikdikzoopedia.jpg/revision/latest/scale-to-width-down/267",
+        "caption": "Madoqua kirkii",
+        "interactivity": "Full",
+        "edition": "Zookeepers DLC",
+        "continents": [
+            "Africa"
+        ],
+        "regions": "Uganda, Kenya, Tanzania, Angola, Namibia",
+        "iucn_status": "Least concern",
+        "biomes": [
+            "Grassland"
+        ],
+        "group_size": "1\u20122 (up to 1 male, up to 1 female)",
+        "reproduction": "Very Easy (Monogamous)",
+        "maturity": "7 months",
+        "sterility": "12 years",
+        "gestation_incubation": "6 months",
+        "interbirth": "6 months",
+        "animal_class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Bovidae",
+        "genus": "Madoqua kirkii"
+    },
+    {
+        "id": "81b24d751527f5eaf69d3f846a3c611371c6bdc3cfc39f314bd0f1b1f9698f37",
+        "title": "Lion-Tailed Macaque",
+        "wiki_link": "https://planetzoo.fandom.com/wiki/Lion-Tailed_Macaque",
+        "image_url": "https://static.wikia.nocookie.net/planetzoo/images/5/52/Liontailedmacaquezoopedia.webp/revision/latest/scale-to-width-down/267",
+        "caption": "Macaca silenus",
+        "interactivity": "Full",
+        "edition": "Asia DLC",
+        "continents": [
+            "Asia"
+        ],
+        "regions": "India",
+        "iucn_status": "Endangered",
+        "biomes": [
+            "Tropical"
+        ],
+        "group_size": "3\u201220 (up to 10 males, up to 20 females)",
+        "reproduction": "Very Difficult (Polygamous)",
+        "maturity": "6 years",
+        "sterility": "Death",
+        "gestation_incubation": "6 months",
+        "interbirth": "16 months",
+        "animal_class": "Mammalia",
+        "order": "Primates",
+        "family": "Cercopithecidae",
+        "genus": "Macaca"
+    },
+    {
+        "id": "94c2a628270d0215e39bdb2104e03a50c1a9c3dd906523e0141051cce9892e5a",
+        "title": "Malabar Rose",
+        "wiki_link": "https://planetzoo.fandom.com/wiki/Malabar_Rose",
+        "image_url": "https://static.wikia.nocookie.net/planetzoo/images/f/f7/Malabarrosezoopedia.webp/revision/latest/scale-to-width-down/267",
+        "caption": "Pachliopta jophon",
+        "interactivity": "Exhibit",
+        "edition": "Basegame",
+        "continents": [
+            "Asia"
+        ],
+        "regions": "Sri Lanka",
+        "iucn_status": "Endangered",
+        "biomes": [
+            "Tropical"
+        ],
+        "group_size": "1\u201290",
+        "reproduction": "Promiscuous",
+        "maturity": "3 days",
+        "sterility": "Death",
+        "gestation_incubation": "0 months",
+        "interbirth": "Only one mating event per lifetime",
+        "animal_class": "Insecta",
+        "order": "Lepidoptera",
+        "family": "Papilionidae",
+        "genus": "Pachliopta"
+    },
+    {
+        "id": "b0b179144b217f64de59ddeac6366182ec9312e146ebb87df7c3edb5f01feca1",
+        "title": "Markhor",
+        "wiki_link": "https://planetzoo.fandom.com/wiki/Markhor",
+        "image_url": "https://static.wikia.nocookie.net/planetzoo/images/b/b0/Markhorzoopedia.jpg/revision/latest/scale-to-width-down/267",
+        "caption": "Capra falconeri",
+        "interactivity": "Full",
+        "edition": "Zookeepers DLC",
+        "continents": [
+            "Asia"
+        ],
+        "regions": "Uzbekistan, Turkmenistan, Tajikistan, Afghanistan, Pakistan, India",
+        "iucn_status": "Near threatened",
+        "biomes": [
+            "Tundra",
+            "Taiga"
+        ],
+        "group_size": "2\u201212 (up to 1 male, up to 11 females)",
+        "reproduction": "Very Easy (Polygynous)",
+        "maturity": "3 years",
+        "sterility": "12 years",
+        "gestation_incubation": "5 months",
+        "interbirth": "7 months",
+        "animal_class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Bovidae",
+        "genus": "Capra"
+    },
+    {
+        "id": "48bc7f7f5283ac9c9e9c918d6e5260b98fb1fc4b307fdaa53610bcf9b520effd",
+        "title": "Nilgai",
+        "wiki_link": "https://planetzoo.fandom.com/wiki/Nilgai",
+        "image_url": "https://static.wikia.nocookie.net/planetzoo/images/e/e3/Nilgaizoopedia.webp/revision/latest/scale-to-width-down/267",
+        "caption": "Boselaphus tragocamelus",
+        "interactivity": "Full",
+        "edition": "Asia DLC",
+        "continents": [
+            "Asia"
+        ],
+        "regions": "India, Nepal, Bangladesh, Pakistan",
+        "iucn_status": "Least concern",
+        "biomes": [
+            "Tropical",
+            "Grassland"
+        ],
+        "group_size": "3\u201210 (up to 1 male, up to 9 females)",
+        "reproduction": "Very Easy (Polygynous)",
+        "maturity": "2.5 years",
+        "sterility": "Death",
+        "gestation_incubation": "8 months",
+        "interbirth": "16 months",
+        "animal_class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Bovidae",
+        "genus": "Boselaphus"
+    },
+    {
+        "id": "820ae1faf7d052e75d7fa22d0fc3ebe7321081d6559c775c43051573eebeba7f",
+        "title": "Ocelot",
+        "wiki_link": "https://planetzoo.fandom.com/wiki/Ocelot",
+        "image_url": "https://static.wikia.nocookie.net/planetzoo/images/d/d6/OcelotZoopedia.webp/revision/latest/scale-to-width-down/267",
+        "caption": "Leopardus pardalis",
+        "interactivity": "Full",
+        "edition": "Americas DLC",
+        "continents": [
+            "North America",
+            "South America"
+        ],
+        "regions": "Southern USA, non-arid regions of Mexico and throughout all Central America, all of South America except Argentina, Chile, and Uruguay",
+        "iucn_status": "Least concern",
+        "biomes": [
+            "Tropical",
+            "Grassland",
+            "Desert"
+        ],
+        "group_size": "1\u20122 (up to 1 male, up to 1 female)",
+        "reproduction": "Difficult (Polygynous)",
+        "maturity": "2.5 years",
+        "sterility": "Death",
+        "gestation_incubation": "2 months",
+        "interbirth": "22 months",
+        "animal_class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae",
+        "genus": "Leopardus"
+    },
+    {
+        "id": "497a66f2fc2ce4658b73e7edecd5089382e41269f1dfe3944e358668a82261fe",
+        "title": "Pallas's Cat",
+        "wiki_link": "https://planetzoo.fandom.com/wiki/Pallas%27s_Cat",
+        "image_url": "https://static.wikia.nocookie.net/planetzoo/images/3/3a/Pallaszoopedia.jpg/revision/latest/scale-to-width-down/267",
+        "caption": "Otocolobus manul",
+        "interactivity": "Full",
+        "edition": "Zookeepers DLC",
+        "continents": [
+            "Asia"
+        ],
+        "regions": "Armenia, Azerbaijan, Iran, Kazakhstan, Uzbekistan, Turkmenistan, Kyrgyzstan, Tajikistan, Afghanistan, Pakistan, Russia, Mongolia, China, Nepal, Bhutan, India",
+        "iucn_status": "Least concern",
+        "biomes": [
+            "Taiga",
+            "Tundra",
+            "Temperate"
+        ],
+        "group_size": "1\u20122 (up to 1 male, up to 1 female)",
+        "reproduction": "Easy (Promiscuous)",
+        "maturity": "1 year",
+        "sterility": "8 years",
+        "gestation_incubation": "2 months",
+        "interbirth": "9 months",
+        "animal_class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae",
+        "genus": "Otocolobus"
+    },
+    {
+        "id": "665bb68d1540fa8f1b79d665be346359a3ffa869c6282c403695dc31eac227a4",
+        "title": "Pygmy Hippopotamus",
+        "wiki_link": "https://planetzoo.fandom.com/wiki/Pygmy_Hippopotamus",
+        "image_url": "https://static.wikia.nocookie.net/planetzoo/images/b/b2/PygmyHippopotamus.jpg/revision/latest/scale-to-width-down/268",
+        "caption": "Choeropsis liberiensis",
+        "interactivity": "Full",
+        "edition": "Deluxe Upgrade",
+        "continents": [
+            "Africa"
+        ],
+        "regions": "Sierra Leone, Liberia, Guinea, Ivory Coast",
+        "iucn_status": "Endangered",
+        "biomes": [
+            "Aquatic",
+            "Tropical"
+        ],
+        "group_size": "1\u20124 (up to 1 male, up to 3 females)",
+        "reproduction": "Very Easy (Monogamous (in captivity))",
+        "maturity": "4.5 years",
+        "sterility": "Death",
+        "gestation_incubation": "7 months",
+        "interbirth": "12 months",
+        "animal_class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Hippopotamidae",
+        "genus": "Hexaprotodon"
+    },
+    {
+        "id": "02baa898f56fcb89e1620e3b05fb140394d0eeec3e758a94cb572817d5cd291b",
+        "title": "P\u00e8re David's Deer",
+        "wiki_link": "https://planetzoo.fandom.com/wiki/P%C3%A8re_David%27s_Deer",
+        "image_url": "https://static.wikia.nocookie.net/planetzoo/images/e/ef/P%C3%A8reDavid%27sDeerzoopedia.webp/revision/latest/scale-to-width-down/268",
+        "caption": "Elaphurus davidianus",
+        "interactivity": "Full",
+        "edition": "Asia DLC",
+        "continents": [
+            "Asia"
+        ],
+        "regions": "China (reintroduced)",
+        "iucn_status": "Extinct in the wild",
+        "biomes": [
+            "Aquatic",
+            "Temperate"
+        ],
+        "group_size": "3\u20129 (up to 1 male, up to 8 females)",
+        "reproduction": "Easy (Polygynous)",
+        "maturity": "3 years",
+        "sterility": "Death",
+        "gestation_incubation": "9 months",
+        "interbirth": "2 months",
+        "animal_class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Cervidae",
+        "genus": "Elaphurus"
+    },
+    {
+        "id": "8c9698dc794e6e306fa920ddec5d17e9b53165d63c6fe4ee2f806be285709977",
+        "title": "Spectacled Bear",
+        "wiki_link": "https://planetzoo.fandom.com/wiki/Spectacled_Bear",
+        "image_url": "https://static.wikia.nocookie.net/planetzoo/images/4/4a/Spectacledbearzoopedia.jpg/revision/latest/scale-to-width-down/267",
+        "caption": "Tremarctos ornatus",
+        "interactivity": "Full",
+        "edition": "Zookeepers DLC",
+        "continents": [
+            "South America"
+        ],
+        "regions": "Colombia, Ecuador, Peru, Bolivia",
+        "iucn_status": "Vulnerable",
+        "biomes": [
+            "Tropical",
+            "Tundra",
+            "Grassland",
+            "Taiga"
+        ],
+        "group_size": "1\u20122 (up to 1 male, up to 1 female)",
+        "reproduction": "Average (Promiscuous)",
+        "maturity": "6 years",
+        "sterility": "25 years",
+        "gestation_incubation": "7 months",
+        "interbirth": "17 months",
+        "animal_class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Ursidae",
+        "genus": "Tremarctos"
     }
 ]
